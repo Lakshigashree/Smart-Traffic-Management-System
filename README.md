@@ -1,16 +1,16 @@
 # 🚦 Smart Traffic Management System (STMS)
 
 ## 📌 Project Overview
-The **Smart Traffic Management System (STMS)** is a modern, AI-driven traffic control solution designed to improve urban mobility, reduce congestion, and support emergency response systems.  
+The **Smart Traffic Management System (STMS)** is a modern, AI-driven traffic control solution designed to enhance urban mobility, reduce traffic congestion, and improve emergency response efficiency.
 
-This repository currently contains a **UI/UX prototype designed using Figma**, showcasing the conceptual design, navigation flow, and core features of a smart city traffic management platform.
+This repository currently contains a **UI/UX prototype** created using **Figma**, representing the conceptual design, navigation flow, and core modules of a smart city traffic management platform.
 
 ---
 
 ## 🎯 Purpose of the Prototype
 - To present a **professional and scalable UI/UX design** for a smart traffic system  
-- To validate feature flow and system navigation before development  
-- To act as a base for future **AI, ML, IoT, and full-stack development**  
+- To validate **feature flow, usability, and system navigation** before implementation  
+- To serve as a **foundation for future AI, ML, IoT, and full-stack development**
 
 ---
 
@@ -19,9 +19,9 @@ This repository currently contains a **UI/UX prototype designed using Figma**, s
 ### 🧭 Main Navigation Modules
 
 #### 1️⃣ Dashboard
-- Central overview of system operations  
+- Central overview of traffic system operations  
 - Displays traffic status, congestion levels, alerts, and signal health  
-- Designed for real-time monitoring and control  
+- Designed for real-time monitoring and administrative control  
 
 #### 2️⃣ Live Traffic Map
 - Real-time visualization of city-wide traffic flow  
@@ -36,7 +36,7 @@ This repository currently contains a **UI/UX prototype designed using Figma**, s
 #### 4️⃣ Emergency Vehicles
 - Priority routing for ambulances, fire trucks, and police vehicles  
 - Live tracking and route optimization  
-- Supports creation of **green corridors** during emergencies  
+- Supports creation of green corridors during emergencies  
 
 #### 5️⃣ Alerts
 - Real-time notifications for:
@@ -44,16 +44,16 @@ This repository currently contains a **UI/UX prototype designed using Figma**, s
   - Traffic congestion  
   - Signal malfunctions  
   - System anomalies  
-- Visual alert indicators for quick response  
+- Visual alert indicators for rapid response  
 
 #### 6️⃣ Analytics
 - Historical traffic data visualization  
 - Traffic trend analysis and performance reports  
-- Supports data-driven urban planning  
+- Supports data-driven urban planning decisions  
 
 #### 7️⃣ Settings
 - System configuration and control panel  
-- User preferences and access management (future scope)  
+- User preferences and access management *(future scope)*  
 - Adjustable parameters for alerts and traffic logic  
 
 ---
@@ -64,20 +64,22 @@ This repository currently contains a **UI/UX prototype designed using Figma**, s
 ---
 
 ## 📂 Project Status
-✅ UI/UX Prototype Completed  
+✅ **UI/UX Prototype Completed**
 
-🚧 Planned Future Development:
-- Frontend: React / Next.js  
-- Backend: Node.js / Python  
-- AI/ML: Vehicle detection & traffic optimization  
-- Database & APIs  
-- IoT and live camera integration  
+🚧 **Development In Progress**
+
+### Planned Future Development
+- **Frontend:** React / Next.js  
+- **Backend:** Node.js / Python  
+- **AI/ML:** Vehicle detection, congestion prediction & traffic optimization  
+- **Database & APIs:** Real-time data handling  
+- **IoT Integration:** Live camera feeds & smart sensors  
 
 ---
 
 ## 🔮 Future Enhancements
 - AI-based vehicle detection using CCTV feeds  
-- Reinforcement Learning for adaptive traffic signals  
+- Reinforcement Learning for adaptive traffic signal control  
 - Real-time emergency route optimization  
 - Mobile application for traffic authorities  
 - Public traffic analytics dashboard  
@@ -85,27 +87,22 @@ This repository currently contains a **UI/UX prototype designed using Figma**, s
 
 ---
 
-## 📌 Use Cases
-- Smart City Traffic Control Systems  
-- Academic Mini / Major Projects  
-- Hackathons (AI, Smart Cities, IoT)  
-- Research & Prototyping  
+## 🎨 UI/UX Prototype
+🔗 **Figma Prototype Link:**  
+https://www.figma.com/site/dRbKsBymRPVuHtLUYIxuMB/AI-Powered-Smart-Traffic-Management-System?node-id=0-1&t=HhPbwbilRyWUs5hW-1  
+
+> ⚠️ **Prototype link development in progress.**
 
 ---
 
 ## 👩‍💻 Author
 **Lakshiga Shree**  
-Aspiring Developer 
+Aspiring Developer  
 
 ---
 
 ## 📄 License
 This project is developed for **educational and prototyping purposes**.  
-License details can be updated during full implementation.
+License details will be updated during full-scale implementation.
 
 ---
-
-https://www.figma.com/site/dRbKsBymRPVuHtLUYIxuMB/AI-Powered-Smart-Traffic-Management-System?node-id=0-1&t=HhPbwbilRyWUs5hW-1
-
-PROTOTYPE LINK 
-DEVELOPMENT IN PROGRESS
