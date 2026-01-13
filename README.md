@@ -100,9 +100,3 @@ https://www.figma.com/site/dRbKsBymRPVuHtLUYIxuMB/AI-Powered-Smart-Traffic-Manag
 Aspiring Developer  
 
 ---
-
-## 📄 License
-This project is developed for **educational and prototyping purposes**.  
-License details will be updated during full-scale implementation.
-
----
