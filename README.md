@@ -95,8 +95,8 @@ https://www.figma.com/site/dRbKsBymRPVuHtLUYIxuMB/AI-Powered-Smart-Traffic-Manag
 
 ---
 
-## 👩‍💻 Author
-**Lakshiga Shree**  
-Aspiring Developer  
+## 👩‍💻 BY
+**Lakshiga Shree** 
+**Mirudhula**  
 
 ---
