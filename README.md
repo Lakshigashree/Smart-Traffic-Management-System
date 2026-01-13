@@ -4,6 +4,7 @@
 The **Smart Traffic Management System (STMS)** is a modern, AI-driven traffic control solution designed to improve urban mobility, reduce congestion, and support emergency response systems.  
 
 This repository currently contains a **UI/UX prototype designed using Figma**, showcasing the conceptual design, navigation flow, and core features of a smart city traffic management platform.
+
 ---
 
 ## 🎯 Purpose of the Prototype
