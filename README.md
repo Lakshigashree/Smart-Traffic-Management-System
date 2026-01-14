@@ -101,7 +101,10 @@ https://www.figma.com/make/vg2BJtBgrWbDuRUanwK0YZ/Design-Smart-Traffic-Managemen
 ---
 
 ## 👩‍💻 BY
-**Lakshiga Shree,** 
-**Mirudhula**  
+- **Lakshiga Shree** 
+- **Lathika**
+- **Madhumitha Moorthi**
+- **Mirudhula**
+- **Rithika**
 
 ---
