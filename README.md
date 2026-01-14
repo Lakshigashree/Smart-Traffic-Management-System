@@ -63,8 +63,15 @@ This repository currently contains a **UI/UX prototype** created using **Figma**
 
 ---
 
-## 📂 Project Status
-✅ **UI/UX Prototype Completed**
+## 📂 Design and Prototyping
+✅ This Figma UI Design was created using Figma's built-in AI assist tools.
+✅ All design decisions (layout, hierarchy, component logic, color scheme, interactions) were reviewed and finalized manually by our team to ensure clarity and UX quality.
+
+## 📂 Details:
+- AI was used to generate a first draft of the dashboard layout.
+- Team refined spacing, hierarchy, and component behaviour.
+- All interactions and flows were designed and validated by the team.
+- This design reflects our UI/UX thinking and supports the MVP experience. 
 
 🚧 **Development In Progress**
 
@@ -89,9 +96,7 @@ This repository currently contains a **UI/UX prototype** created using **Figma**
 
 ## 🎨 UI/UX Prototype
 🔗 **Figma Prototype Link:**  
-https://www.figma.com/site/dRbKsBymRPVuHtLUYIxuMB/AI-Powered-Smart-Traffic-Management-System?node-id=0-1&t=HhPbwbilRyWUs5hW-1  
-
-> ⚠️ **Prototype link development in progress.**
+https://www.figma.com/make/vg2BJtBgrWbDuRUanwK0YZ/Design-Smart-Traffic-Management-UI?fullscreen=1&t=uGx6nKCNe7NgpHKe-1 
 
 ---
 
